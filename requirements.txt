@@ -1,0 +1,11 @@
+!pip install pandasai
+!pip install pandasai[excel]
+!pip install pandasai[connectors]
+!pip install tiktoken
+!pip install openai
+!pip install google-cloud-storage
+!pip install streamlit
+!npm install localtunnel --quiet
+!pip install google-api-python-client
+!pip install google-cloud-bigquery
+!pip install google-cloud-bigquery-storage
